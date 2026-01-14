@@ -45,6 +45,7 @@ Each `Day-XX` folder contains:
 
 ### 🚀 Phase 2: Data Engineering (In Progress)
 - ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)  
+- ✅ Day 06: Medallion Architecture (Bronze–Silver–Gold)  
 - ⏳ Upcoming: Spark SQL Advanced, Performance Optimization, Delta Lake Internals  
 
 ---
