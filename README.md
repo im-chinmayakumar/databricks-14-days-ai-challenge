@@ -44,10 +44,11 @@ Each `Day-XX` folder contains:
 - ✅ Day 04: Delta Lake Introduction  
 
 ### 🚀 Phase 2: Data Engineering (In Progress)
-- ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)  
-- ✅ Day 06: Medallion Architecture (Bronze–Silver–Gold)  
-- ⏳ Upcoming: Spark SQL Advanced, Performance Optimization, Delta Lake Internals  
-
+- ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)
+- ✅ Day 06: Medallion Architecture (Bronze–Silver–Gold)
+- ✅ Day 07: Databricks Jobs & Workflows (Automation, Task Dependencies, Scheduling)
+- ⏳ Day 08 (Loading): Spark SQL Advanced, Performance Optimization, Delta Lake Internal
+ 
 ---
 
 ## 🔗 Connect
