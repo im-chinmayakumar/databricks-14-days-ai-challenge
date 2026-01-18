@@ -4,7 +4,7 @@ This repository documents my **daily learnings, notes, and hands-on implementati
 from the **Databricks 14 Days AI Challenge**.
 
 The goal of this challenge is to progressively build skills in **Databricks, Apache Spark,
-and data engineering**, moving from foundations to production-grade pipelines.
+and data engineering**, moving from foundations to **production-grade data pipelines and analytics**.
 
 ---
 
@@ -12,7 +12,7 @@ and data engineering**, moving from foundations to production-grade pipelines.
 
 Each `Day-XX` folder contains:
 - A `README.md` explaining the concepts learned
-- Code files (`.py` / notebooks) with hands-on implementation
+- Code files (`.py` / notebooks / SQL) with hands-on implementation
 
 ---
 
@@ -22,15 +22,17 @@ Each `Day-XX` folder contains:
 - PySpark
 - SQL
 - Delta Lake
+- Unity Catalog
 - Lakehouse Architecture
 
 ---
 
 ## 🎯 Learning Objectives
 - Understand distributed data processing using Spark
-- Gain hands-on experience with Databricks notebooks
+- Gain hands-on experience with Databricks notebooks and SQL
 - Apply data transformations on real-world datasets
 - Build reliable, scalable, and production-ready data pipelines
+- Implement analytics, dashboards, and performance optimizations
 - Maintain a well-documented learning repository
 
 ---
@@ -43,14 +45,23 @@ Each `Day-XX` folder contains:
 - ✅ Day 03: PySpark Transformations Deep Dive  
 - ✅ Day 04: Delta Lake Introduction  
 
-### 🚀 Phase 2: Data Engineering (In Progress)
-- ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)
-- ✅ Day 06: Medallion Architecture (Bronze–Silver–Gold)
-- ✅ Day 07: Databricks Jobs & Workflows (Automation, Task Dependencies, Scheduling)
-- ✅ Day 08: Unity Catalog & Data Governance
- 
+---
+
+### 🚀 Phase 2: Data Engineering (Completed)
+- ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)  
+- ✅ Day 06: Medallion Architecture (Bronze–Silver–Gold)  
+- ✅ Day 07: Databricks Jobs & Workflows (Automation, Dependencies, Scheduling)  
+- ✅ Day 08: Unity Catalog & Data Governance  
+
+---
+
+### 📊 Phase 3: Advanced Analytics (In Progress)
+- ✅ Day 09: SQL Analytics & Dashboards  
+- ✅ Day 10: Performance Optimization (Execution Plans, Partitioning, ZORDER, Caching)  
+- ⏳ Upcoming: Advanced SQL, Business KPIs & Data Storytelling  
+
 ---
 
 ## 🔗 Connect
 This repository is part of my **learning-in-public journey**.  
-Progress and insights are shared regularly on LinkedIn.
+Progress, dashboards, and insights are shared regularly on **LinkedIn**.
