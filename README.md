@@ -58,7 +58,7 @@ Each `Day-XX` folder contains:
 ### 📊 Phase 3: Advanced Analytics (In Progress)
 - ✅ Day 09: SQL Analytics & Dashboards  
 - ✅ Day 10: Performance Optimization (Execution Plans, Partitioning, ZORDER, Caching)  
-- ⏳ Upcoming: Advanced SQL, Business KPIs & Data Storytelling  
+- ✅ Day 11 (19/01/26) – Statistical Analysis & ML Preparation 📈
 
 ---
 
